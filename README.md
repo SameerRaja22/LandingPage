@@ -1,2 +1,2 @@
 # LandingPage
-A Book Selling Wesite
+A Book Selling Website
